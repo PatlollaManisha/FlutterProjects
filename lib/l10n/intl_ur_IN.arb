@@ -1,0 +1,16 @@
+{
+  "@@locale": "ur_IN",
+  "homePageAppBarTitle": "ہوم پیج",
+  "homePageMainFormTitle": "ذاتی معلومات",
+  "formFieldName": "نام",
+  "formFieldNameHint": "اپنا نام درج کریں",
+  "formFieldEmail": "ای میل",
+  "formFieldEmailHint": "اپنا ای میل درج کریں۔",
+  "formFieldDOB": "پیدائش کی تاریخ",
+  "formFieldRequired": "مطلوب خانہ",
+  "formFieldSubmitInfo": "معلومات جمع کروائیں۔",
+  "aboutUsPageAppBarTitle": "ہمارے بارے میں",
+  "settingsPageAppBarTitle": "ترتیبات",
+  "formFieldChangeLanguage": "زبان تبدیل کریں",
+  "formFieldAbout": "Lorem Ipsum پرنٹنگ اور ٹائپ سیٹنگ انڈسٹری کا محض ڈمی ٹیکسٹ ہے۔ Lorem Ipsum 1500 کی دہائی سے انڈسٹری کا معیاری ڈمی ٹیکسٹ رہا ہے۔"
+}

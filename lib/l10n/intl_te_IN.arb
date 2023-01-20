@@ -1,0 +1,16 @@
+{
+  "@@locale": "te_IN",
+  "homePageAppBarTitle": "హోమ్ పేజీ",
+  "homePageMainFormTitle": "వ్యక్తిగత సమాచారం",
+  "formFieldName": "పేరు",
+  "formFieldNameHint": "మీ పేరును ఎంటర్ చేయండి",
+  "formFieldEmail": "ఇమెయిల్",
+  "formFieldEmailHint": "మీ ఇమెయిల్‌ను నమోదు చేయండి",
+  "formFieldDOB": "పుట్టిన తేది",
+  "formFieldRequired": "కావలసిన సమాచారం",
+  "formFieldSubmitInfo": "సమాచారాన్ని సమర్పించండి",
+  "aboutUsPageAppBarTitle": "మా గురించి",
+  "settingsPageAppBarTitle": "సెట్టింగ్‌లు",
+  "formFieldChangeLanguage": "భాష మార్చు",
+  "formFieldAbout": "లోరెమ్ ఇప్సమ్ అనేది ప్రింటింగ్ మరియు టైప్‌సెట్టింగ్ పరిశ్రమ యొక్క డమ్మీ టెక్స్ట్. లోరెమ్ ఇప్సమ్ 1500ల నుండి పరిశ్రమ యొక్క ప్రామాణిక డమ్మీ టెక్స్ట్."
+}
