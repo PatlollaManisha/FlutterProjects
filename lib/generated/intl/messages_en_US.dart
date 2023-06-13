@@ -22,7 +22,7 @@ class MessageLookup extends MessageLookupByLibrary {
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
     "aboutUsPageAppBarTitle" : MessageLookupByLibrary.simpleMessage("About Us"),
-    "formFieldAbout" : MessageLookupByLibrary.simpleMessage("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s."),
+    "formFieldAbout" : MessageLookupByLibrary.simpleMessage("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."),
     "formFieldChangeLanguage" : MessageLookupByLibrary.simpleMessage("Change Language"),
     "formFieldDOB" : MessageLookupByLibrary.simpleMessage("Date of Birth"),
     "formFieldEmail" : MessageLookupByLibrary.simpleMessage("Email"),
